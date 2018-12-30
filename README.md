@@ -1,2 +1,2 @@
 # GuessTheNumber
-My first game.
+My first game. Really simple, but learned a lot.
